@@ -7,7 +7,6 @@ Our project focuses on establishing a vibrant, high-quality blockchain community
 | Protocol                                                                                    | Date          | Report                                                       |
 | ------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------ |
 | [GivingThanks First Flight #28](https://codehawks.cyfrin.io/c/2024-11-giving-thanks)        | November 2024 | [:page_facing_up:](audits-2024/2024-11-giving-thanks.pdf)    | 
-<br> </br>
 ## Description of the Event
 - Date: 10.04.2025
 
