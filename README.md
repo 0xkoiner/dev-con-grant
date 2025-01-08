@@ -6,7 +6,7 @@ Our project focuses on establishing a vibrant, high-quality blockchain community
 <br> </br>
 | Presentation                                                                                    | Date          | Report                                                       |
 | ------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------ |
-| [Ethereum Education Event]([https://codehawks.cyfrin.io/c/2024-11-giving-thanks](https://www.figma.com/deck/WuKSNgxYL4aIfXxJzB5FQB/Ethereum-education-event-presentation?node-id=1-510&t=BG3fQLb7wnmDhl10-1))        | January 2025 | [:page_facing_up:](Ethereum\ education\ event\ presentation.pdf)    | 
+| [Ethereum Education Event]([https://codehawks.cyfrin.io/c/2024-11-giving-thanks](https://www.figma.com/deck/WuKSNgxYL4aIfXxJzB5FQB/Ethereum-education-event-presentation?node-id=1-510&t=BG3fQLb7wnmDhl10-1))        | January 2025 | [:page_facing_up:](Ethereum_education_event_presentation.pdf)    | 
 ## Description of the Event
 - Date: 10.04.2025
 
